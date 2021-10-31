@@ -1,15 +1,25 @@
 import React  from 'react';
+import About from '../components/About';
+import Portfolio from '../components/Portfolio';
+import Contact from '../components/Contact';
+import Resume from '../components/Resume';
 
+
+import { HashRouter as Router, Switch, Route, Redirect } from "react-router-dom";
 
 function Header() {
     return (
 
-        <ul> 
-        <li><a href="./index.html#about">About Me</a></li>
-        <li> <a href="./index.html#work">Work</a> </li>
-        <li> <a href="./index.html#contact">Contact Me</a> </li>
-        <li> <a href="./resume.html">Resume</a> </li>
-     </ul>  
+        <Router>
+      
+            <Switch>
+                <Route exact path="/"> <Redirect to="/about" /> </Route>
+                <Route path="/about"> <About /> </Route>
+                <Route path="/portfolio" component={Portfolio} />
+                <Route path="/contact" component={Contact} /> 
+                <Route path="/resume"> <Resume /> </Route>
+            </Switch>
+        </Router>
 
         )
     }   
