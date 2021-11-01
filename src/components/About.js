@@ -16,7 +16,8 @@ function About() {
               <div className='info-text'> Little Information About Me </div>
          </div>
       </div>  
-
+      <br></br>
+      <br></br>
         <div className='row'>
                                
                 <p>Completed High School in Anand, India in Year 2004. After that studied for computer hardware, software and networking, completed certifications in web-designing, c Programming, c++ and MCSA and MCSE.
