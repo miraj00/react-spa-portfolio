@@ -7,15 +7,8 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div>
-           <Header/>
-
-      
-      <main>
-           
-      </main>
-
-          
-             <Footer/>
+           <Header/>    
+           <Footer/>
     </div>
   );
 }
