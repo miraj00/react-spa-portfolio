@@ -71,6 +71,7 @@ First run " npm start " command in command prompt to start the server ( It shoul
 ![Screenshot of web page](./public/assets/images/image1.JPG)
 ![Screenshot of web page](./public/assets/images/image2.JPG)
 ![Screenshot of web page](./public/assets/images/image3.JPG)
+![Screenshot of web page](./public/assets/images/image4.JPG)
 
 ### Deployed Sites ##
 
