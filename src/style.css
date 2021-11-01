@@ -112,3 +112,35 @@
     margin-bottom: 30px;
      
   }
+
+
+  .grid-container {
+    /* display: grid;
+    grid-template-columns: repeat(2, 5fr);
+    grid-template-rows: repeat(4, 400px);
+    grid-gap: 10px;
+    flex: 2 60%;
+    margin: 3.5%;
+    line-height: 3.5; */
+
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+  
+    grid-gap: 80px;
+
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+
+}
+
+.grid-item img:hover {
+    opacity: 0.5;
+}
+
+.gallery__img {
+  width: 500%;
+  height: 70%;
+  object-fit: cover;
+  /* border: 3px solid var(--secondary-color); */
+}
