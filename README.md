@@ -58,6 +58,10 @@ Initially following commands were used to setup the project :
   - npx create-react-app react-spa-portfolio
   - npm install --save react-router-dom
 
+Below command was used to Deploy the website :
+
+  - npm install -D gh-pages
+
 ### How to Use the application : 
 
 First run " npm start " command in command prompt to start the server ( It should automatically open the browser and direct to http://localhost:3000/ , if it does not then follow step manually) and then go to the browser and browse http://localhost:3000/ to test the application in local computer. Below are few command line codes to help with running the application
