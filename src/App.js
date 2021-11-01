@@ -4,6 +4,7 @@ import Nav from './components/Nav';
 import Footer from './components/Footer';
 import ContactForm from './components/Contact';
 import About from './components/About';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
 
             <Nav /> 
       <main>
-            <About></About>
+           
             <ContactForm></ContactForm>
       </main>
 

@@ -1,0 +1,16 @@
+.photo {
+    padding: 10px 10px 10px 10px;
+
+    vertical-align: middle;
+    width: 250px;
+    height: 270px;
+    border-radius: 50%;
+  }
+
+
+.info-text {
+ font-size: 30px;
+ padding-top: 100px;
+ padding-left: 30px;
+      
+  }
