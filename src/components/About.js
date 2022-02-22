@@ -20,23 +20,11 @@ function About() {
     
         <div className='row'>
                                
-                <p>Completed High School in Anand, India in Year 2004. After that studied for computer hardware, software and networking, completed certifications in web-designing, c Programming, c++ and MCSA and MCSE.
-                    After compleleting education in computers related certification. I started studying for Biotechnology. At the same I decided to become pharmacist and started toward studying doctor of pharmacy. After completing 4 years of degree program, I graduated from Temple University with the Doctor of Pharmacy Degree in Year 2013.
-                    <br></br>
-                    After becoming pharmacist, I worked at long-term pharmacy for 3 years, then opened my own business. Setting and running pharmacy from scratch, I built business clientel and and sold it after 5 years of running it successfully.
-                    As to describe in short, here is my journey in timeline :
+                <p>Born and grew up in India, Completed My High School in the Year 2004. 
+        After that studied for computer hardware, software and networking, completed certifications in web-designing, c Programming, c++ and MCSA and MCSE.
+        I learned many different languages, applications and softwares along the way in my career such as Java, SQL Databases, Github and so on. 
                 </p>
-                <p>
-                    2003-2004    Graduated from High-School <br></br>
-                    2004-2005    Completed Computer Hardware, Software, Networking Certifications <br></br>
-                    2005-2009    Studied Biotechnology <br></br>
-                    2009-2013    Studied for Doctor of Pharmacy Degree and Completed in Year 2013 <br></br>
-                    2013-2016    Worked at Long-Term Pharmacy as a Pharmacist <br></br>
-                    2016-2021    Started Retail Pharmacy Business, Ran for 5 Years and Then Sold it in January 2021 <br></br>
-                    In Yr-2021   Travelled Thru US for 3 Months, Then Started Study Coding / Programming at Rutgers Bootcamp 
-                </p> 
-                <p> Currently, a Full Stack Web-Developer with a individual and Group projects experience in bootcamp. Really good at using HTML, CSS, Javascript, ReactJS, Node.js, MongoDB Database, MySQL and other technologies.
-                </p>
+
             </div>
         </div>   
 
